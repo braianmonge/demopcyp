@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppList", "ConsoleAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDictionary", "ConsoleAppDictionary\ConsoleAppDictionary.csproj", "{80F641A2-4AC4-4A93-8BAF-AA07FD60B0F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_ejerciciosColecciones", "TP_ejerciciosColecciones\TP_ejerciciosColecciones.csproj", "{7662F7C9-DDE9-4488-98B5-919518529742}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{80F641A2-4AC4-4A93-8BAF-AA07FD60B0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F641A2-4AC4-4A93-8BAF-AA07FD60B0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F641A2-4AC4-4A93-8BAF-AA07FD60B0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7662F7C9-DDE9-4488-98B5-919518529742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7662F7C9-DDE9-4488-98B5-919518529742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7662F7C9-DDE9-4488-98B5-919518529742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7662F7C9-DDE9-4488-98B5-919518529742}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
