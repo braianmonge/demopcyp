@@ -26,7 +26,7 @@ namespace TP_ejerciciosColecciones
             //muestro los valores del diccionario
             imprimirDictionary(contadorDePalabras);
             //tambien muestro la cantidad de pares clave valor dentro del diccionario
-            Console.WriteLine("size"+contadorDePalabras.Count);
+            Console.WriteLine("size :"+contadorDePalabras.Count);
 
              
             
